@@ -1,9 +1,7 @@
-############Print on demand ##############
-
-1. Crate a design /store
+Print on demand 
 
 ----------------------------------------------------------------------------------
-  -Popular print-on-demand products business sell include:
+Popular print-on-demand products business sell include:
 T-shirts
 Books
 Bags
@@ -36,7 +34,6 @@ Cushions
 Towels 
 Phone cases
 Hats
-Face masks
 Bluetooth speakers
 Water bottles
 Socks
