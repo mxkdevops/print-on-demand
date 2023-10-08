@@ -1,4 +1,12 @@
-Print on demand 
+Print on demand 2023
+
+How do I start a print on demand company?
+Set up an ecommerce website.
+Find in-demand products to sell.
+Create designs for the products.
+Build the product in an app like Printful or Printify.
+Upload it to your store’s product catalog.
+Market your store.
 
 ----------------------------------------------------------------------------------
 ```
@@ -17,6 +25,7 @@ Socks
 -----------------------------------------------------------------------------------
 The best print-on-demand products
 https://www.shopify.com/uk/blog/print-on-demand-products
+https://www.youtube.com/watch?v=h3xgd-Q_TiI
 
 ------------------------------------------------------------------------------------------
 ```
@@ -42,19 +51,7 @@ Water bottles
 Socks
 ```
 ------------------------------------------------------------------------------------------
-2. Popular print on demand company
-   - Printful
-   - Printify
-  
-3. Design 
 
-4. Marketing
-
-5. Customers orders
-
-6. You order
-
-7. Supplier handling everything else
    
 
 ### Tips for starting with print on demand
