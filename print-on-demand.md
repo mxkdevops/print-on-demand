@@ -1,6 +1,7 @@
 Print on demand 
 
 ----------------------------------------------------------------------------------
+```
 Popular print-on-demand products business sell include:
 T-shirts
 Books
@@ -10,6 +11,7 @@ Phone cases
 Mugs
 Socks
  Niche : mug , tshirt , kids , couple , mom , dad ,
+```
 -----------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
@@ -17,6 +19,7 @@ The best print-on-demand products
 https://www.shopify.com/uk/blog/print-on-demand-products
 
 ------------------------------------------------------------------------------------------
+```
 Unisex t-shirts
 Children’s t-shirts
 Mugs
@@ -37,6 +40,7 @@ Hats
 Bluetooth speakers
 Water bottles
 Socks
+```
 ------------------------------------------------------------------------------------------
 2. Popular print on demand company
    - Printful
