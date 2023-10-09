@@ -65,4 +65,39 @@ Socks
    -Spend $10 on Facebook ads (to start) to test your products with your target market.
 5. Create your own online store
 6. Design, test, sell, and grow
-   
+
+##################################################
+   09/10/2023 5:15
+#################################################
+https://www.podninjas.com/settings/member_setup?return_to=BAhbB3sHOgdpZEkiDGI2ZGMzYTEGOgZFVDoKdmFsdWUiK2h0dHBzOi8vd3d3LnBvZG5pbmphcy5jb20vZHVtbXljb25maXJtVTogQWN0aXZlU3VwcG9ydDo6VGltZVdpdGhab25lWwhJdToJVGltZQ0E5h7Aim7DNAk6CXpvbmVJIghVVEMGOwZGOg1uYW5vX251bWkCtAM6DW5hbm9fZGVuaQY6DXN1Ym1pY3JvIgeUgEkiEkV1cm9wZS9Mb25kb24GOwZUSXU7CQ0F5h7Aim7DNAk7CkALOwtpArQDOwxpBjsNIgeUgA%3D%3D--d84e7afd46d348c5f5f70ef4a6df3bebfa47578e
+-------------------------------------------------------
+mk
+zaman
+------
+shopifyPOD23#
+-----------
+Expect to spend
+- £29/month on shopify
+- £10 for a custom domain
+
+Design
+- 4 design
+Marketing
+ - Influencer marketing
+ - influencer campaign for £20 with
+ - Instragram/Facebook ads : £50 pound 
+- 
+3 types of store
+  - General store ---general name 
+  - Niche store--- specific niche name
+  - Product focused store-- specific product name
+ 
+  3 Most important
+  -POD is unique
+  -all purchased on an impulse for fun
+  -Dont create clothing line , or abstruct patterens as a upscale boutique type of shop.
+  
+  
+  - 
+  - 
+    
