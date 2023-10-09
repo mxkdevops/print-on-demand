@@ -1,4 +1,33 @@
-Print on demand 2023
+#Print on demand 2023
+
+How To Create 100 T-Shirt Designs In 1 Hour For FREE With Canva + Chat GPT (For Etsy POD)
+
+1.How do I start a print on demand company?
+2.Set up an ecommerce website.
+3.Find in-demand products to sell.
+    Create designs for the products.
+Build the product in an app like Printful or Printify.
+Upload it to your store’s product catalog.
+Market your store.
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Design the product ( Tools) 
+https://www.canva.com/
+#Creative Fabrica Free Trial:
+https://www.creativefabrica.com/cart
+
+
 
 How do I start a print on demand company?
 Set up an ecommerce website.
