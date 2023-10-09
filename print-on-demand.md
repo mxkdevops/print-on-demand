@@ -8,6 +8,28 @@ Build the product in an app like Printful or Printify.
 Upload it to your store’s product catalog.
 Market your store.
 
+### Print On Demand Niches
+1. The best print-on-demand products
+-----------------------------------------
+https://www.shopify.com/uk/blog/print-on-demand-products
+
+2. How to Organise products in Your Shopify Store
+https://www.youtube.com/watch?v=_fNPHKuSxag&t=284s
+
+
+3. Full Print On Demand Printify And Etsy Listing Tutorial (FREE COURSE) T-Shirt Business How To Video (
+Cassiy Johnson)
+https://www.youtube.com/watch?v=pSs0nMfRqZc&t=1403s
+
+
+5. FREE Ways To Find T-Shirt Niches - (What to Design For Right now!) Print On Demand Niches Etsy
+https://www.youtube.com/watch?v=GiM6aN7f_FY&t=464s
+
+
+6. How I Make Top Selling T-Shirt Designs 2023 (No Skill)
+https://www.youtube.com/watch?v=h3xgd-Q_TiI
+
+------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
 ```
 Popular print-on-demand products business sell include:
@@ -22,13 +44,7 @@ Socks
 ```
 -----------------------------------------------------------------------------------------
 
-The best print-on-demand products
------------------------------------------
-https://www.shopify.com/uk/blog/print-on-demand-products
-----------------------------------------------------------------------------
-https://www.youtube.com/watch?v=h3xgd-Q_TiI
 
-------------------------------------------------------------------------------------------
 ```
 Unisex t-shirts
 Children’s t-shirts
