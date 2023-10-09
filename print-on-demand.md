@@ -21,8 +21,7 @@ Socks
  Niche : mug , tshirt , kids , couple , mom , dad ,
 ```
 -----------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------
+
 The best print-on-demand products
 https://www.shopify.com/uk/blog/print-on-demand-products
 https://www.youtube.com/watch?v=h3xgd-Q_TiI
@@ -54,7 +53,7 @@ Socks
 
    
 
-### Tips for starting with print on demand
+###Tips for starting with print on demand
  1. Always order samples
 2.  Be strategic about shipping
     - Conditional free shipping (e.g., “Get free shipping when you spend $30 or more”)
@@ -69,10 +68,10 @@ Socks
 ##################################################
    09/10/2023 5:15
 #################################################
-https://www.podninjas.com/settings/member_setup?return_to=BAhbB3sHOgdpZEkiDGI2ZGMzYTEGOgZFVDoKdmFsdWUiK2h0dHBzOi8vd3d3LnBvZG5pbmphcy5jb20vZHVtbXljb25maXJtVTogQWN0aXZlU3VwcG9ydDo6VGltZVdpdGhab25lWwhJdToJVGltZQ0E5h7Aim7DNAk6CXpvbmVJIghVVEMGOwZGOg1uYW5vX251bWkCtAM6DW5hbm9fZGVuaQY6DXN1Ym1pY3JvIgeUgEkiEkV1cm9wZS9Mb25kb24GOwZUSXU7CQ0F5h7Aim7DNAk7CkALOwtpArQDOwxpBjsNIgeUgA%3D%3D--d84e7afd46d348c5f5f70ef4a6df3bebfa47578e
+
+
 -------------------------------------------------------
-mk
-zaman
+mk zaman
 ------
 shopifyPOD23#
 -----------
